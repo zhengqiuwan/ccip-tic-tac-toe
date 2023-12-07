@@ -4,7 +4,7 @@ export default function Navbar() {
 	return (
 		<nav className={styles.navbar}>
 			<a href="https://chainlink.com" target={"_blank"}>
-				<img className={styles.alchemy_logo} src="/img.png" ></img>
+				{/* <img className={styles.alchemy_logo} src="/img.png" ></img> */}
 			</a>
 			<ConnectButton></ConnectButton>
 		</nav>

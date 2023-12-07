@@ -7,7 +7,7 @@ function Board() {
       <div style={ {
           height: "395px",
           width: "395px",
-          backgroundColor: "#fff",
+          backgroundColor: "#aaa",
           borderRadius: "10px",
           display: "grid",
           gridTemplateColumns: "120px 120px 120px",

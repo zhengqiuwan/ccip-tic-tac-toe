@@ -7,7 +7,7 @@ const Boop = ({ row = 0, column = 0, cellClick = ()=>{}, timing = 150, disabledC
     width: "115px",
     height: "115px",
     fontSize: "2.2em",
-    backgroundColor: "#375bd2",
+    backgroundColor: "pink",
     display: 'flex',
     backfaceVisibility: 'hidden',
     scale:isBooped? "1.1": "1",
